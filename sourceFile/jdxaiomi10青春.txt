@@ -1,0 +1,1 @@
+<script>window.location.href='https://passport.jd.com/uc/login?ReturnUrl=http://item.jd.com/100006914135.html'</script>
